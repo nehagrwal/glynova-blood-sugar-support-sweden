@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/glynova-blood-sugar-support-sweden/sitemap.xml
+Sitemap: https://glynova-blood-sugar-support-sweden.vercel.app/sitemap-vercel.xml
+Sitemap: https://glynova-blood-sugar-support-sweden.pages.dev/sitemap-cloudflare.xml
